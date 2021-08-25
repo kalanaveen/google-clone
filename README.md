@@ -1,3 +1,39 @@
+Google clone created in Next js.It's super fast application wih server side rendering all search result coming from google api.
+For making it responsive we used powerfull tailwind css.Also for more than 10 resuls we used pagination.
+
+home page 
+![image](https://user-images.githubusercontent.com/34640475/130746401-b89844c5-d0a1-4ae5-bd16-c7ba9f32fb17.png)
+
+search page
+![image](https://user-images.githubusercontent.com/34640475/130746486-01566e11-987c-428b-8aa3-8d79461f281a.png)
+
+
+
+
+Key Features
+
+
+    Nextjs server side rendering
+    Next Router used for routing
+    Nextjs image component
+    Google api data for display search reult
+    Pagination done for next and prev page
+    Tanimation effect on hover
+    Super responsive
+    
+Key Technologies
+
+  
+    Next.JS
+    React.js
+    TailwindCSS
+    TailwindCSS line clamp
+    NextRouter
+    Next Image
+    Server Side Rendering(SSR)
+    Google API for search result
+    
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
